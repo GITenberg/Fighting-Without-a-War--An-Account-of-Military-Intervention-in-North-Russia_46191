@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '43650'
     url: http://www.gutenberg.org/2009/agents/43650
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46191#Fighting-Without-a-War--An-Account-of-Military-Intervention-in-North-Russia
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2014-07-04'
 gutenberg_type: Text
